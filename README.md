@@ -1,12 +1,15 @@
-# gh-teresa-repo-rename
-Extensión que cambia el nombre a un repositorio 
+# gh-repo-rename
+
+You will be able to change the name of a repository by using this comand
  
 ## Installation
-
+```
 gh extension install teresaUll/gh-repo-rename
 
+```
 ## Usage 
 
+```
 Usage: gh-repo-rename [options]
 
 Options:
@@ -16,4 +19,7 @@ Options:
   -n, --name <name>  name
   -h, --help         display help for command
 
+```
+## Author
 
+Teresa Bonet 
