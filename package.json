@@ -17,12 +17,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/teresaull/gh-teresa-repo-rename.git"
+      "url": "git+https://github.com/teresaull/gh-repo-rename.git"
     },
-    "author": "",
+    "author": "Teresa Bonet",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/teresaull/gh-teresa-repo-rename/issues"
+      "url": "https://github.com/teresaull/gh-repo-rename/issues"
     },
-    "homepage": "https://github.com/teresaull/gh-teresa-repo-rename#readme"
+    "homepage": "https://github.com/teresaull/gh-repo-rename#readme"
   }
